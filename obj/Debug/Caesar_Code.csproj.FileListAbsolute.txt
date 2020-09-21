@@ -1,0 +1,46 @@
+C:\Users\Серфим\Desktop\Caesar_Code\bin\Debug\Caesar_Code.exe.config
+C:\Users\Серфим\Desktop\Caesar_Code\bin\Debug\Caesar_Code.exe
+C:\Users\Серфим\Desktop\Caesar_Code\bin\Debug\Caesar_Code.pdb
+C:\Users\Серфим\Desktop\Caesar_Code\obj\Debug\Caesar_Code.csprojAssemblyReference.cache
+C:\Users\Серфим\Desktop\Caesar_Code\obj\Debug\Caesar_Code.form.resources
+C:\Users\Серфим\Desktop\Caesar_Code\obj\Debug\Caesar_Code.Properties.Resources.resources
+C:\Users\Серфим\Desktop\Caesar_Code\obj\Debug\Caesar_Code.csproj.GenerateResource.cache
+C:\Users\Серфим\Desktop\Caesar_Code\obj\Debug\Caesar_Code.exe
+C:\Users\Серфим\Desktop\Caesar_Code\obj\Debug\Caesar_Code.pdb
+C:\Users\Серфим\Desktop\Новая папка\Caesar_Code\bin\Debug\Caesar_Code.exe.config
+C:\Users\Серфим\Desktop\Новая папка\Caesar_Code\bin\Debug\Caesar_Code.exe
+C:\Users\Серфим\Desktop\Новая папка\Caesar_Code\bin\Debug\Caesar_Code.pdb
+C:\Users\Серфим\Desktop\Новая папка\Caesar_Code\obj\Debug\Caesar_Code.csprojAssemblyReference.cache
+C:\Users\Серфим\Desktop\Новая папка\Caesar_Code\obj\Debug\Caesar_Code.form.resources
+C:\Users\Серфим\Desktop\Новая папка\Caesar_Code\obj\Debug\Caesar_Code.Properties.Resources.resources
+C:\Users\Серфим\Desktop\Новая папка\Caesar_Code\obj\Debug\Caesar_Code.csproj.GenerateResource.cache
+C:\Users\Серфим\Desktop\Новая папка\Caesar_Code\obj\Debug\Caesar_Code.exe
+C:\Users\Серфим\Desktop\Новая папка\Caesar_Code\obj\Debug\Caesar_Code.pdb
+C:\Users\Серфим\Desktop\Новая папка\Новая папка\Caesar_Code\bin\Debug\Caesar_Code.exe.config
+C:\Users\Серфим\Desktop\Новая папка\Новая папка\Caesar_Code\bin\Debug\Caesar_Code.exe
+C:\Users\Серфим\Desktop\Новая папка\Новая папка\Caesar_Code\bin\Debug\Caesar_Code.pdb
+C:\Users\Серфим\Desktop\Новая папка\Новая папка\Caesar_Code\obj\Debug\Caesar_Code.csprojAssemblyReference.cache
+C:\Users\Серфим\Desktop\Новая папка\Новая папка\Caesar_Code\obj\Debug\Caesar_Code.form.resources
+C:\Users\Серфим\Desktop\Новая папка\Новая папка\Caesar_Code\obj\Debug\Caesar_Code.Properties.Resources.resources
+C:\Users\Серфим\Desktop\Новая папка\Новая папка\Caesar_Code\obj\Debug\Caesar_Code.csproj.GenerateResource.cache
+C:\Users\Серфим\Desktop\Новая папка\Новая папка\Caesar_Code\obj\Debug\Caesar_Code.exe
+C:\Users\Серфим\Desktop\Новая папка\Новая папка\Caesar_Code\obj\Debug\Caesar_Code.pdb
+E:\Programs\My programs\Windows forms C#\Caesar_Code\Caesar_Code\bin\Debug\Caesar_Code.exe.config
+E:\Programs\My programs\Windows forms C#\Caesar_Code\Caesar_Code\bin\Debug\Caesar_Code.exe
+E:\Programs\My programs\Windows forms C#\Caesar_Code\Caesar_Code\bin\Debug\Caesar_Code.pdb
+E:\Programs\My programs\Windows forms C#\Caesar_Code\Caesar_Code\obj\Debug\Caesar_Code.csprojAssemblyReference.cache
+E:\Programs\My programs\Windows forms C#\Caesar_Code\Caesar_Code\obj\Debug\Caesar_Code.form.resources
+E:\Programs\My programs\Windows forms C#\Caesar_Code\Caesar_Code\obj\Debug\Caesar_Code.Properties.Resources.resources
+E:\Programs\My programs\Windows forms C#\Caesar_Code\Caesar_Code\obj\Debug\Caesar_Code.csproj.GenerateResource.cache
+E:\Programs\My programs\Windows forms C#\Caesar_Code\Caesar_Code\obj\Debug\Caesar_Code.exe
+E:\Programs\My programs\Windows forms C#\Caesar_Code\Caesar_Code\obj\Debug\Caesar_Code.pdb
+D:\Archive\Programs\!My programs\C#\Caesar code\bin\Debug\Caesar_Code.exe.config
+D:\Archive\Programs\!My programs\C#\Caesar code\bin\Debug\Caesar_Code.exe
+D:\Archive\Programs\!My programs\C#\Caesar code\bin\Debug\Caesar_Code.pdb
+D:\Archive\Programs\!My programs\C#\Caesar code\obj\Debug\Caesar_Code.csprojAssemblyReference.cache
+D:\Archive\Programs\!My programs\C#\Caesar code\obj\Debug\Caesar_Code.form.resources
+D:\Archive\Programs\!My programs\C#\Caesar code\obj\Debug\Caesar_Code.Properties.Resources.resources
+D:\Archive\Programs\!My programs\C#\Caesar code\obj\Debug\Caesar_Code.csproj.GenerateResource.cache
+D:\Archive\Programs\!My programs\C#\Caesar code\obj\Debug\Caesar_Code.csproj.CoreCompileInputs.cache
+D:\Archive\Programs\!My programs\C#\Caesar code\obj\Debug\Caesar_Code.exe
+D:\Archive\Programs\!My programs\C#\Caesar code\obj\Debug\Caesar_Code.pdb
