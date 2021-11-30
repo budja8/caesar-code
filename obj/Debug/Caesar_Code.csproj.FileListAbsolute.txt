@@ -44,3 +44,13 @@ D:\Archive\Programs\!My programs\C#\Caesar code\obj\Debug\Caesar_Code.csproj.Gen
 D:\Archive\Programs\!My programs\C#\Caesar code\obj\Debug\Caesar_Code.csproj.CoreCompileInputs.cache
 D:\Archive\Programs\!My programs\C#\Caesar code\obj\Debug\Caesar_Code.exe
 D:\Archive\Programs\!My programs\C#\Caesar code\obj\Debug\Caesar_Code.pdb
+C:\Programs\caesar-code\bin\Debug\Caesar_Code.exe.config
+C:\Programs\caesar-code\bin\Debug\Caesar_Code.exe
+C:\Programs\caesar-code\bin\Debug\Caesar_Code.pdb
+C:\Programs\caesar-code\obj\Debug\Caesar_Code.csproj.AssemblyReference.cache
+C:\Programs\caesar-code\obj\Debug\Caesar_Code.form.resources
+C:\Programs\caesar-code\obj\Debug\Caesar_Code.Properties.Resources.resources
+C:\Programs\caesar-code\obj\Debug\Caesar_Code.csproj.GenerateResource.cache
+C:\Programs\caesar-code\obj\Debug\Caesar_Code.csproj.CoreCompileInputs.cache
+C:\Programs\caesar-code\obj\Debug\Caesar_Code.exe
+C:\Programs\caesar-code\obj\Debug\Caesar_Code.pdb
